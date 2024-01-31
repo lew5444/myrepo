@@ -2,7 +2,9 @@
 title: "Hello World"
 author: "Laurel Wellman"
 date: "2024-01-31"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r}
